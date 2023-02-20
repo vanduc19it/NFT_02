@@ -1,0 +1,46 @@
+{
+    "name": "Kakashi Hatake",
+    "description": "This is naruto colectible of Vanduc19it",
+    "image": "https://ipfs.io/ipfs/QmU3ejkAgqMLAH6wZrHMorH4x7k48vhLrJLQ91z4eT7M78",
+    "attributes": [
+        {
+          "trait_type": "Base", 
+          "value": "Ninja Coppy"
+        }, 
+        {
+          "trait_type": "Eyes", 
+          "value": "Sharingan Obito"
+        }, 
+        {
+          "trait_type": "Mouth", 
+          "value": "Strict"
+        }, 
+        {
+          "trait_type": "Level", 
+          "value": 10
+        }, 
+        {
+          "trait_type": "Stamina", 
+          "value": 9
+        }, 
+        {
+          "trait_type": "Personality", 
+          "value": "Handsome"
+        }, 
+        {
+          "display_type": "boost_number", 
+          "trait_type": "Aqua Power", 
+          "value": 90
+        }, 
+        {
+          "display_type": "boost_percentage", 
+          "trait_type": "Stamina Increase", 
+          "value": 10
+        }, 
+        {
+          "display_type": "number", 
+          "trait_type": "Generation", 
+          "value": 4
+        }
+    ]    
+}
